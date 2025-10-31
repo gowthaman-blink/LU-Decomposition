@@ -20,7 +20,8 @@ To write a program to find the LU Decomposition of a matrix.
 Program to find the L and U matrix.
 Developed by:gowthaman a k 
 RegisterNumber:25017622 
-<img width="513" height="215" alt="Screenshot 2025-10-31 171136" src="https://github.com/user-attachments/assets/22a37f31-7fae-46aa-a508-9bacfad6e6cd" />
+
+<img width="513" height="215" alt="Screenshot 2025-10-31 171136" src="https://github.com/user-attachments/assets/95ab4ec0-9317-4c9c-90b5-7d57026dd2bf" />
 
 
 ```
@@ -31,7 +32,8 @@ Program to find the LU Decomposition of a matrix.
 Developed by:gowthaman ak 
 RegisterNumber: 25017622
 
-<img width="616" height="309" alt="Screenshot 2025-10-31 171056" src="https://github.com/user-attachments/assets/6fd6b0bf-9cea-47d2-90cb-e58a52e0a516" />
+
+<img width="616" height="309" alt="Screenshot 2025-10-31 171056" src="https://github.com/user-attachments/assets/2e743a0d-8cba-4433-b069-e39620018112" />
 
 ```
 
